@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'rumblesumIgnite1' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for rumblesumIgnite1
+  # Required by RNFirebase
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  
+  target 'rumblesumIgnite1Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'rumblesumIgnite1-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for rumblesumIgnite1-tvOS
+
+  target 'rumblesumIgnite1-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

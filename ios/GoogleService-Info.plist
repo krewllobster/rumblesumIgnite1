@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>829853702821-7qkh8l90pttltuefap4uf6l6fi14u77g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.829853702821-7qkh8l90pttltuefap4uf6l6fi14u77g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoPjHAlRrZXbFZ9DSioXo4RvDkov932bI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>829853702821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rumblesum.rumblesum</string>
+	<key>PROJECT_ID</key>
+	<string>rumblesum</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rumblesum.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:829853702821:ios:e95b0222cc7b57dd</string>
+	<key>DATABASE_URL</key>
+	<string>https://rumblesum.firebaseio.com</string>
+</dict>
+</plist>

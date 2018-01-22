@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "829853702821",
+    "firebase_url": "https://rumblesum.firebaseio.com",
+    "project_id": "rumblesum",
+    "storage_bucket": "rumblesum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829853702821:android:e95b0222cc7b57dd",
+        "android_client_info": {
+          "package_name": "com.rumblesum.rumblesum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829853702821-puhi7if6ct84lkfm3m7hnd8ona99prb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDteGzCxu4QxbwrBnGzNJ--Bwac2TBez4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
